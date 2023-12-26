@@ -1,0 +1,7 @@
+﻿  CircularArray.cpp
+C:\Users\MATVEJ\Downloads\C++\CircularArray(Ring_Buffer)\CircularArray(RingBuffer)\CircularArray.cpp(29,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\MATVEJ\Downloads\C++\CircularArray(Ring_Buffer)\CircularArray(RingBuffer)\CircularArray.cpp(74,12): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\MATVEJ\Downloads\C++\CircularArray(Ring_Buffer)\CircularArray(RingBuffer)\CircularArray.cpp(117,13): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+  CircularArrayExmaple.cpp
+  Generating Code...
+  RingBuffer.vcxproj -> C:\Users\MATVEJ\Desktop\CPlusPlus\RingBuffer\x64\Debug\RingBuffer.exe
